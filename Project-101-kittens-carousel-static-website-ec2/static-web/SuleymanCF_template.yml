@@ -22,8 +22,8 @@ Resources:
           sudo systemctl enable httpd
           sudo chmod -R 777 /var/www/html
           cd /var/www/html
-          wget https://raw.githubusercontent.com/SuleymanBat/projectmine_go/main/aws/projects/Project-101-kittens-carousel-static-website-ec2/static-web/index.html?token=GHSAT0AAAAAABT353KDXRXP44I3SCKG6QFEYUDDQIA
-          wget https://raw.githubusercontent.com/SuleymanBat/projectmine_go/main/aws/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat0.jpg?token=GHSAT0AAAAAABT353KDXRXP44I3SCKG6QFEYUDDQIA
-          wget https://raw.githubusercontent.com/aws/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat1.jpg
-          wget https://raw.githubusercontent.com/aws/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat2.jpg
-          wget https://raw.githubusercontent.com/SuleymanBat/projectmine_go/main/aws/projects/Project-101-kittens-carousel-static-website-ec2/static-web/index.html
+          wget https://raw.githubusercontent.com/SuleymanBat/kittens_carousel_project/main/Project-101-kittens-carousel-static-website-ec2/static-web/index.html
+          wget https://raw.githubusercontent.com/SuleymanBat/kittens_carousel_project/main/Project-101-kittens-carousel-static-website-ec2/static-web/cat0.jpg
+          wget https://raw.githubusercontent.com/SuleymanBat/kittens_carousel_project/main/Project-101-kittens-carousel-static-website-ec2/static-web/cat1.jpg
+          wget https://raw.githubusercontent.com/SuleymanBat/kittens_carousel_project/main/Project-101-kittens-carousel-static-website-ec2/static-web/cat2.jpg
+          
